@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Dibyendu Maji](https://www.github.com/dibyendu415) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=dibyendu415" alt="visitor badge"/></p>
+### Hi there 👋 , I'm [Dibyendu Maji](https://www.github.com/dibyendu415) <p  align="right"><img src="https://komarev.com/ghpvc/?username=dibyendu415" alt="visitor badge"/></p>
 
 <!--
 **dibyendu415/dibyendu415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Dibyendu Maji</h1>
+<h3 align="center">Developer</h3>
