@@ -1,5 +1,18 @@
 ### Hi there 👋 , I'm [Dibyendu Maji](https://www.github.com/dibyendu415) <p  align="right"><img src="https://komarev.com/ghpvc/?username=dibyendu415" alt="visitor badge"/></p>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/dibyendu-maji-3134b4149/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/dibyendu415">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/dibyendu415/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.codechef.com/users/dibyendu415">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+ </p>
 <!--
 **dibyendu415/dibyendu415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
