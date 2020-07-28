@@ -20,9 +20,6 @@ https://github.com/dibyendu415/dibyendu415/blob/master/a.gif
 <a href="https://www.linkedin.com/in/dibyendu-maji-3134b4149/">
   <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/dibyendu415">
-  <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.instagram.com/dibyendu415/">
   <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
