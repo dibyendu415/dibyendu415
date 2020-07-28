@@ -52,8 +52,7 @@ Let's code for good. <br/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  
 </p>
-- 👨‍💻 All of my projects are available at [dibyendu415.github.io](https://dibyendu415.github.io/)
-
+                                                                                                                                   
 - 💬 Ask me about **Above Techs**
 
 - 📫 How to reach me **dibyendumaji415@gmail.com**                                                                                                                                   
