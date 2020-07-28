@@ -58,4 +58,6 @@ Let's code for good. <br/>
 - 📫 How to reach me **dibyendumaji415@gmail.com**                                                                                                                                   
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=dibyendu415&show_icons=true" alt="dibyendu415" /> 
-</p>                                                                                                                               
+</p>          
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<br />
