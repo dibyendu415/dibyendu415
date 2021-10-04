@@ -1,4 +1,4 @@
-### Hi, [Dibyendu](https://www.github.com/dibyendu415) here  👋 <p  align="right"><img src="https://komarev.com/ghpvc/?username=dibyendu415" alt="visitor badge"/></p>
+### Hi, [Dibyendu](https://www.github.com/dibyendu415) here  👋 <p  align="right"></p>
 <!--
 **dibyendu415/dibyendu415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +37,7 @@ Let's work for a better opensource, decentralized future. <br/>
 A world where everything is free and everyone is free to experement, learn, survive and thrive. <br/>
 Let's code for good. <br/>
 
-## Technologies I Love 
+<!-- ## Technologies I Love 
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/42942897/88451424-39d4d880-ce74-11ea-9625-c8d0b95c445e.png" alt="cplusplus" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -48,7 +48,7 @@ Let's code for good. <br/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40""/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  
-</p>
+</p> -->
                                                                                                                                    
 - 💬 Ask me about **Above Techs**
 
